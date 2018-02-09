@@ -1,6 +1,6 @@
 {
   "name": "hello-baymax",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "hello baymax",
   "main": "index.js",
   "scripts": {
