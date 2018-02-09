@@ -1,1 +1,1 @@
-module.export = name => `Hello ${name}, I am Baymax, your personal healthcare companion.`
+module.exports = name => `Hello ${name}, I am Baymax, your personal healthcare companion.`
